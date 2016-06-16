@@ -1,9 +1,10 @@
 {
   "name": "meteor-chat",
   "private": true,
-  "version": "2.14.20",
+  "version": "1.0.0",
   "engines": {
-    "node": "4.1.1"
+    "node": "4.1.1",
+    "npm": "2.14.20"
   },
   "scripts": {
     "start": "meteor run"
